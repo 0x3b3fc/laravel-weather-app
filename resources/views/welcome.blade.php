@@ -1,7 +1,7 @@
 @extends('layout.app')
 @section('content')
-    <div class="container">
-        <div class="row">
+    <div class="container justify-content-center mt-4">
+        <div class="row justify-content-center mt-4">
             <div class="card justify-content-center text-center">
                 <div class="card-header">
                     <h1>Weather App</h1>
